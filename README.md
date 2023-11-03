@@ -4,3 +4,5 @@
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me 
  [Email](mailto:developwithaditya@outlook.com)
+
+![](https://komarev.com/ghpvc/?username=evilcoder443&color=dc143c)
