@@ -10,5 +10,6 @@
 
 ![](https://komarev.com/ghpvc/?username=evilcoder443&color=dc143c)
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/developwiti)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=evilcoder443&show_icons=true&locale=en&layout=compact" alt="evilcoder443"/></p>
