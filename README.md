@@ -1,6 +1,6 @@
-<h2>Hi 👋, I'm Evilcoder443</h2>
+## Hi 👋, I'm Evilcoder443
 
-<h3>A passionate fullstack developer from India</h3>
+### A passionate fullstack developer from India
 
 - 👀 I’m interested in coding/tech
 - 🌱 I’m currently learning python 
