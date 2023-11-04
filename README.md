@@ -3,7 +3,7 @@
 ### A passionate fullstack developer from India
 
 - 👀 I’m interested in coding/tech
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning nodejs 
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me 
  [Email](mailto:developwithaditya@outlook.com)
